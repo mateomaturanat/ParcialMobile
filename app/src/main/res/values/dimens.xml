@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letterSize">25sp</dimen>
+    <dimen name="spaceTop">25dp</dimen>
+</resources>

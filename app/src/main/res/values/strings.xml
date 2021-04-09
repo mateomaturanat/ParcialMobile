@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="title">FORMULARIO</string>
+    <string name="id">Codigo</string>
+    <string name="name">Nombre</string>
+    <string name="value">Valor</string>
+    <string name="iva">Iva</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="submit">Guardar</string>
+
+</resources>
